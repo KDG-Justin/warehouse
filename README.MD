@@ -2,7 +2,7 @@
 
 # 📦 Warehouse Backend Simulation  
 
-This project is a **backend simulation of a warehouse** that processes materials through a connected web interface.  
+This project is a **backend simulation of a warehouse** that processes materials through API/REST from a connected web interface.  
 
 ## Features  
 
